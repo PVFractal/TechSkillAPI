@@ -11,7 +11,7 @@ namespace TechSkillAPI
             { ".net dotnet", new string[3] { "Create an ASP.NET web API", "Make a basic console app that suggests skills", "Create a basic web app" } },
             { "git", new string[3] { "Make use of GitHub Actions", "Make a branch and merge it with main", "Create and solve a merge conflict" } },
             { "linux", new string[3] { "Practice moving around the filesystem", "Create and edit a text file with the terminal", "Delete root" } },
-            { "sql", new string[3] { "Practice making some queries", "Practice updating and deleting entries", "Make a database" } },
+            { "sql sequel", new string[3] { "Practice making some queries", "Practice updating and deleting entries", "Make a database" } },
             { "aws amazon", new string[3] { "Interact with DynamoDB", "Make a lambda function", "Put something in an S3 bucket" } },
             { "node npm", new string[3] { "Make a basic web API", "Create a project that compiles TypeScript to a dist folder", "Make node go to an older version" } },
             { "c# csharp coctothorpe", new string[3] { "Make hello world", "Make a program that can read and write to a file", "Make a program with a class and an array" } },
