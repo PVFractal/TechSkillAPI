@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechSkillAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc8200e703838871efc0a7d754e86179547579e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cead16d387839c695ac90b830c8d7bb6b6a3f9e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechSkillAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechSkillAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

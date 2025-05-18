@@ -21,7 +21,7 @@ app.MapGet("/skillsuggestion", (string skill) =>
 {
     Skills svc = new Skills();
     var suggestion = svc.SuggestSkill(skill);
-    Console.WriteLine(suggestion);
+    return Results.Ok(suggestion);
 })
 .WithName("GetSkillSuggestion");
 
