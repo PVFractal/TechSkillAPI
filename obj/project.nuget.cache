@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTG1VEAf/wU=",
+  "success": true,
+  "projectFilePath": "/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/TechSkillAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/pvahlberg/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/pvahlberg/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
