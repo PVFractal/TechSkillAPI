@@ -26,3 +26,4 @@
 /Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/obj/Debug/net9.0/TechSkillAPI.pdb
 /Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/obj/Debug/net9.0/TechSkillAPI.genruntimeconfig.cache
 /Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/obj/Debug/net9.0/ref/TechSkillAPI.dll
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/obj/Debug/net9.0/TechSkillAPI.sourcelink.json
