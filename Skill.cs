@@ -8,15 +8,19 @@ namespace TechSkillAPI
         {
             { "default", new string[3] { "Skill not found", "Skill not found", "Skill not found" } },
             { "python", new string[3] { "Create a machine learning project with PyTorch", "Visualize some data with MatPlotLib", "Populate a Pandas Dataframe from a CSV, and clean the data" } },
-            { ".net", new string[3] { "s1", "s2", "s3" } },
-            { "sample2", new string[3] { "s1", "s2", "s3" } },
-            { "sample3", new string[3] { "s1", "s2", "s3" } },
-            { "sample4", new string[3] { "s1", "s2", "s3" } },
-            { "sample5", new string[3] { "s1", "s2", "s3" } },
-            { "sample6", new string[3] { "s1", "s2", "s3" } },
-            { "sample7", new string[3] { "s1", "s2", "s3" } },
-            { "sample8", new string[3] { "s1", "s2", "s3" } },
-            { "sample9", new string[3] { "s1", "s2", "s3" } }
+            { ".net dotnet", new string[3] { "Create an ASP.NET web API", "Make a basic console app that suggests skills", "Create a basic web app" } },
+            { "git", new string[3] { "Make use of GitHub Actions", "Make a branch and merge it with main", "Create and solve a merge conflict" } },
+            { "linux", new string[3] { "Practice moving around the filesystem", "Create and edit a text file with the terminal", "Delete root" } },
+            { "sql", new string[3] { "Practice making some queries", "Practice updating and deleting entries", "Make a database" } },
+            { "aws amazon", new string[3] { "Interact with DynamoDB", "Make a lambda function", "Put something in an S3 bucket" } },
+            { "node npm", new string[3] { "Make a basic web API", "Create a project that compiles TypeScript to a dist folder", "Make node go to an older version" } },
+            { "c# csharp coctothorpe", new string[3] { "Make hello world", "Make a program that can read and write to a file", "Make a program with a class and an array" } },
+            { "unity", new string[3] { "Make a basic platforming game", "Interact with some 3d physics", "Make a frictionless object" } },
+            { "typescript", new string[3] { "Make a hello world program", "Use an interface in code", "Use a constant in a program" } },
+            { "data_structures", new string[3] { "Make a graph in the programming language of your choice", "Make a linked list in the programming language of your choice", "Make a tree in the programming language of your choice" } },
+            { "devops", new string[3] { "Make a project according to the DevOps principles", "Make a project according to the DevOps principles", "Make a project according to the DevOps principles" } },
+            { "ai ml machine learning", new string[3] { "Use linear regression", "Use a neural network", "Use a decision tree" } },
+            { "template", new string[3] { "s1", "s2", "s3" } },
         };
 
 
