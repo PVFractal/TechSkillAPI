@@ -17,9 +17,11 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 
-app.MapGet("/skillsuggestion", () =>
+app.MapGet("/skillsuggestion", (string skill) =>
 {
-    
+    Skills svc = new Skills();
+    var suggestion = svc.SuggestSkill(skill);
+    Console.WriteLine(suggestion);
 })
 .WithName("GetSkillSuggestion");
 
