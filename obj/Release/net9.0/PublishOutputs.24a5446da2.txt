@@ -1,0 +1,9 @@
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/TechSkillAPI
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/appsettings.json
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/TechSkillAPI.dll
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/TechSkillAPI.deps.json
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/TechSkillAPI.runtimeconfig.json
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/TechSkillAPI.pdb
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/pvahlberg/Documents/DotNet Projects/TechSkillAPI/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
