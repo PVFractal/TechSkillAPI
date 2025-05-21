@@ -4,6 +4,11 @@ namespace TechSkillAPI
 {
     class Skills
     {
+
+        /// <summary>
+        /// The API "database"
+        /// It maps different skills as strings to 3 suggestions
+        /// </summary>
         Dictionary<string, string[]> suggestionDict = new Dictionary<string, string[]>
         {
             { "default", new string[3] { "Skill not found", "Skill not found", "Skill not found" } },
@@ -25,7 +30,11 @@ namespace TechSkillAPI
             { "template", new string[3] { "s1", "s2", "s3" } },
         };
 
-
+        /// <summary>
+        /// Randomly chooses a practice suggestion for the given skill, if the given skill is in the dictionary
+        /// </summary>
+        /// <param name="skillInput">The skill to give a suggestion for</param>
+        /// <returns></returns>
         public string SuggestSkill(string skillInput)
         {
             var parsedInput = ParseInput(skillInput);
@@ -36,6 +45,11 @@ namespace TechSkillAPI
             return suggestionDict[parsedInput][randIndex];
         }
 
+        /// <summary>
+        /// Turns the given string input into a string that correlates to a key in the dictionary
+        /// </summary>
+        /// <param name="skillInput">The skill to parse</param>
+        /// <returns></returns>
         private string ParseInput(string skillInput)
         {
             // Getting the different tech skills to matcg
